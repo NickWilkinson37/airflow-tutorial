@@ -1,0 +1,4 @@
+local/venv
+local/airflow.cfg
+local/airflow.db
+*/logs
